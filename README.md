@@ -24,3 +24,11 @@ If you find a process or a tool that has some command-line options that can or h
 You can use the template available [here](./Template) or simply copy one the already existsting README files and use it as a base. Please follow the same structure and don't remove any titles (all are required).
 
 Looking forward to your awesome contributions.
+
+## Feedback
+
+Found this interesting? Have a question/comment/request? Let us know!
+
+Feel free to open an [issue](https://github.com/3CORESec/MAL-CL/issues) or ping us on [Twitter](https://twitter.com/3CORESec). We also have a [Community Slack](https://launchpass.com/3coresec) where you can discuss our open-source projects, participate in giveaways and have access to projects before they are released to the public.
+
+[![Twitter](https://img.shields.io/twitter/follow/3CORESec.svg?style=social&label=Follow)](https://twitter.com/3CORESec)
