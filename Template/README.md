@@ -48,6 +48,10 @@ X:\XXXXX\XXXX\XXXX.exe
 
 - [EventSource Event ID XXXX - Title](#link)
 
+## Detection Validation
+
+- TBD
+
 ## Detection Rules
 
 - **Format (Splunk/Sigma/Elastic/Other)**
