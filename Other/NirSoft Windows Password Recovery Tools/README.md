@@ -28,19 +28,31 @@ All the tools have the same commandline arguments to export passwords
 ```batch
 rem Exporting passwords using PasswordFox
 PasswordFox.exe /stext C:\Users\admin\AppData\Local\Temp\firefox.txt
+
+rem Exporting passwords using IE PassView
 iepv.exe /stext C:\Users\admin\AppData\Local\Temp\ie.txt
+
+rem Exporting passwords using any of the tools above
+[ToolName].exe /stext [PathToSaveOnDisk]
 ```
 
 Here is a list of some of the available export flags (See [docs](#documentation) below for complete list for every tool)
 
 ```batch
 /stext <Filename> - Save the list of passwords into a regular text file.
+
 /stab <Filename> - Save the list of passwords into a tab-delimited text file.
+
 /scomma <Filename> - Save the list of passwords into a comma-delimited text file.
+
 /stabular <Filename> - Save the list of passwords into a tabular text file.
+
 /shtml <Filename> - Save the list of passwords into HTML file (Horizontal).
+
 /sverhtml <Filename> - Save the list of passwords into HTML file (Vertical).
+
 /sxml <Filename> - Save the list of passwords to XML file.
+
 /skeepass <Filename> - Save the list of passwords to KeePass csv file.
 ```
 

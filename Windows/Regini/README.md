@@ -13,6 +13,7 @@
 
 ```batch
 rem See the documentation section for examples on the config file
+
 regini [PathToConfigFile]
 
 regini -m [\\ComputerName] [PathToConfigFile]

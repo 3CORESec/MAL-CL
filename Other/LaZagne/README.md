@@ -13,8 +13,11 @@
 
 ```batch
 laZagne.exe all
+
 laZagne.exe all -oA -output [Path]
+
 laZagne.exe browsers
+
 laZagne.exe Sysadmin
 ```
 
@@ -43,7 +46,7 @@ laZagne.exe Sysadmin
 - [The DFIR Report  - Cobalt Strike, a Defender’s Guide](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
 - [The DFIR Report  - Trickbot Brief: Creds and Beacons](https://thedfirreport.com/2021/05/02/trickbot-brief-creds-and-beacons/)
 - [The DFIR Report  - GoGoogle Ransomware](https://thedfirreport.com/2020/04/04/gogoogle-ransomware/)
-- [TREND MICRO - Weaponizing Open Source Software for Targeted Attacks](https://www.trendmicro.com/en_us/research/20/k/weaponizing-open-source-software-for-targeted-attacks.html)
+- [Trend Micro - Weaponizing Open Source Software for Targeted Attacks](https://www.trendmicro.com/en_us/research/20/k/weaponizing-open-source-software-for-targeted-attacks.html)
 - [Yoroi - Shadows From the Past Threaten Italian Enterprises](https://yoroi.company/research/shadows-from-the-past-threaten-italian-enterprises/)
 
 ## ATT&CK Techniques

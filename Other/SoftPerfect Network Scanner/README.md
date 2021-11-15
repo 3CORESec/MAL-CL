@@ -12,9 +12,12 @@
 ## Common CommandLine
 
 ```batch
-netscan. exe /hide /auto:"result.xml" 
-netscan.exe /hide /live:"result.xml" 
+netscan. exe /hide /auto:"result.xml"
+
+netscan.exe /hide /live:"result.xml"
+
 netscan.exe /hide /auto:"result.xml" /config:netscan.xml /range:[IP RANGE]
+
 netscan.exe /hide /range:all
 ```
 

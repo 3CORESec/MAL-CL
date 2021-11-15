@@ -12,9 +12,12 @@
 ## Common CommandLine
 
 ```batch
-\Advanced IP Scanner 2\advanced_ip_scanner.exe /portable [PATH] /lng en_us
+advanced_ip_scanner.exe /portable [PATH] /lng [Language]
+
 advanced_ip_scanner_console.exe /r:[IP RANGE]
+
 advanced_ip_scanner_console.exe /r:[IP RANGE] /v
+
 advanced_ip_scanner_console.exe /s:ip_ranges.txt /f:scan_results.txt
 ```
 
@@ -23,7 +26,7 @@ advanced_ip_scanner_console.exe /s:ip_ranges.txt /f:scan_results.txt
 ````batch
 C:\Program Files (x86)\Advanced IP Scanner\
 
-C:\Users\[user]\AppData\Local\Temp\Advanced IP Scanner 2
+C:\Users\[user]\AppData\Local\Temp\Advanced IP Scanner 2\
 
 C:\Users\[user]\AppData\Local\Programs\Advanced IP Scanner Portable\
 ````

@@ -121,7 +121,7 @@ C:\Windows\SysWOW64\reg.exe
 - [Palo Alto Networks - Unite 42 - Paranoid PlugX](https://unit42.paloaltonetworks.com/unit42-paranoid-plugx/)
 - [Palo Alto Networks - Unite 42 - The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor](https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/)
 - [CISA - Alert (TA18-074A) - Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors](https://us-cert.cisa.gov/ncas/alerts/TA18-074A)
-- [McAfee Blogs - McAfee Uncovers Operation Honeybee, a Malicious Document Campaign Targeting Humanitarian Aid Groups](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/)
+- [McAfee Blog - McAfee Uncovers Operation Honeybee, a Malicious Document Campaign Targeting Humanitarian Aid Groups](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/)
 
 ## ATT&CK Techniques
 

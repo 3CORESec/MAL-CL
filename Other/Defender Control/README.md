@@ -13,7 +13,9 @@
 
 ```batch
 DefenderControl.exe /E
+
 DefenderControl.exe /D /ID:[Defender PID]
+
 DefenderControl.exe /D
 ```
 
