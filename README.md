@@ -10,9 +10,9 @@ The following MindMap display the tools and utilities currently covered by MAL-C
 
 ![coverage-mindmap](./Images/MAL-CL-Coverage-MindMap.png)
 
+- 🔍 [Other](./Other)
 - 🔍 [Antivirus](./Antivirus)
 - 🔍 [Windows](./Windows)
-- 🔍 [Other](./Other)
 
 ## Contributing
 
