@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Third Party Application Remover (tpar.exe)](#third-party-application-remover-tparexe)
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Common CommandLine](#common-commandline)

@@ -1,10 +1,8 @@
-# CleanWipe
-
-![coverage-mindmap](/Images/MindMaps/CleanWipe.png)
+# PortQry
 
 ## Table of Contents
 
-- [CleanWipe](#cleanwipe)
+- [PortQry](#portqry)
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
@@ -27,62 +25,44 @@
 
 ## Description
 
-<p align="center"><img src="/Images/Screenshots/CleanWipe.png"></p>
-
-> **Symantec CleanWipe removal tool is a utility that removes any Symantec software, such as Symantec Endpoint Protection**
+> **Portqry is a command-line utility that you can use to help troubleshoot TCP/IP connectivity issues. The utility reports the port status of TCP and UDP ports on a computer that you select.** - [MSDN](https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/portqry-exe-command-line-utility)
 
 ## Common CommandLine
 
-- When CleanWipe is launched it spawns children processes with the following Command Line
-
 ```batch
-SepRemovalToolNative_x64.exe
+portqry -local
 
-CATClean.exe --uninstall
+portqry -local -l [Logfile Name] -v
 
-NetInstaller.exe -r
-
-WFPUnins.exe /uninstall /enterprise
-```
-
-- Undocumented Commandline arguments
-
-```batch
--t / --tempdir
--r / --resume
--k / --token
--o / --runonce
--s / --scheduler
---ignore-nco-check
+portqry -n [@IP] -e [PortToQuery]
 ```
 
 ## Default Install Location
 
-- CleanWipe is a downloadable portable package so no installation is required to execute it. It's also included in the full installation file for Symantec Endpoint Protection.
+- PortQry is a downloadable portable utility so no installation is required to execute it.
 
 ## DFIR Artifacts
 
-- Default Log Location
-
-```batch
-C:\Windows\Temp\CleanWipe_[YYYY][MM][DD][HH][MM][SS]
-```
+- TBD
 
 ## Examples In The Wild
 
-- [ANY.RUN - CleanWipe (SymantecUninstaller).zip](https://app.any.run/tasks/d38d569b-dc68-4b0b-b6d2-b7b8244778a1/)
+- [ANY.RUN - Office 2010 Activator.exe](https://app.any.run/tasks/1470ee4c-d58a-480d-8ecd-1204b0e7bd19/)
 
 ## Documentation
 
-- [Broadcom Techdocs - Download the CleanWipe removal tool to uninstall Endpoint Protection](https://knowledge.broadcom.com/external/article/178870)
+- [Microsoft Docs - Portqry](https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/portqry-exe-command-line-utility)
+- [SS64.com - Windows CMD - Portqry](https://ss64.com/nt/portqry.html)
 
 ## Blogs / Reports References
 
-- TBD
+- [Cybereason - DeadRinger: Exposing Chinese Threat Actors Targeting Major Telcos](https://www.cybereason.com/blog/deadringer-exposing-chinese-threat-actors-targeting-major-telcos)
+- [Cybereason - Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers)
+- [WeLiveSecurity - BackdoorDiplomacy: Upgrading from Quarian to Turian](https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/)
 
 ## ATT&CK Techniques
 
-- [T1562.001 - Impair Defenses: Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/)
+- [T1049 - System Network Connections Discovery](https://attack.mitre.org/techniques/T1049/)
 
 ## Eventlog / Sysmon Events to Monitor
 

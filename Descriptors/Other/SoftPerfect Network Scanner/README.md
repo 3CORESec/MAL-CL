@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [SoftPerfect Network Scanner (netscan.exe)](#softperfect-network-scanner-netscanexe)
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Common CommandLine](#common-commandline)

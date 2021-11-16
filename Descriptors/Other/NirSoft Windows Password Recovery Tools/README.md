@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [NirSoft Windows Password Recovery Tools](#nirsoft-windows-password-recovery-tools)
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Executables Included](#executables-included)

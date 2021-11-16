@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [NBTscan](#nbtscan)
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Common CommandLine](#common-commandline)
@@ -62,7 +62,7 @@ nbtscan -f [Filename]
 - [Microsoft Blog - Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/)
 - [CISA - Alert (AA21-200B) - Chinese State-Sponsored Cyber Operations: Observed TTPs](https://us-cert.cisa.gov/ncas/alerts/aa21-200b)
 - [Expel - How to hunt for reconnaissance](https://expel.io/blog/how-to-hunt-for-reconnaissance/)
-- [Cyberreason - Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers)
+- [Cybereason - Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers)
 - [Secureworks - Threat Group 3390 Cyberespionage](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)
 - [Secureworks - BRONZE PRESIDENT Targets NGOs](https://www.secureworks.com/research/bronze-president-targets-ngos)
 - [WeLiveSecurity - BackdoorDiplomacy: Upgrading from Quarian to Turian](https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/)

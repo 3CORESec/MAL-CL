@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [IntelliAdmin Network Administrator - ProcessKill](#intelliadmin-network-administrator---processkill)
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Common CommandLine](#common-commandline)
