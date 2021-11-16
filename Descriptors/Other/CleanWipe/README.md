@@ -7,6 +7,26 @@
 - 3CORESec - [@3CORESec](https://twitter.com/3CORESec)
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
+## Content
+
+![coverage-mindmap](/Images/MindMaps/CleanWipe.png)
+
+- [CleanWipe](#cleanwipe)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Content](#content)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
+
 ## Description
 
 > **Symantec CleanWipe removal tool is a utility that removes any Symantec software, such as Symantec Endpoint Protection**
