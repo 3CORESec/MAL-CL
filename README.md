@@ -20,12 +20,12 @@ The first is to bring awareness to the abuse of different tools and utilities - 
 
 The following MindMap display the tools and utilities currently covered by MAL-CL.
 
-![coverage-mindmap](./Images/MAL-CL-Coverage-MindMap.png)
+![coverage-mindmap](./Images/MindMaps/MAL-CL-Coverage-MindMap.png)
 
-- 🔍 [Antivirus](./Descriptors/Antivirus)
-- 🔍 [Antivirus](./Descriptors/Sysinternals)
-- 🔍 [Windows](./Descriptors/Windows)
 - 🔍 [Other](./Descriptors/Other)
+- 🔍 [Antivirus](./Descriptors/Antivirus)
+- 🔍 [Sysinternals](./Descriptors/Sysinternals)
+- 🔍 [Windows](./Descriptors/Windows)
 
 ## Contributing
 
