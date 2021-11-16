@@ -1,6 +1,22 @@
 # Net
 
-![windows-net-command](/Images/Screenshots/Windows-Net-Command.png)
+## Table of Contents
+
+- [Net](#net)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 

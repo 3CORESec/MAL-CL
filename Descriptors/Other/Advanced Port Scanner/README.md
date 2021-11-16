@@ -1,6 +1,22 @@
 # Advanced Port Scanner
 
-<p align="center"><img src="/Images/Screenshots/Advanced-Port-Scanner.png"></p>
+## Table of Contents
+
+- [Advanced Port Scanner](#advanced-port-scanner)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 
@@ -8,6 +24,8 @@
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
 ## Description
+
+<p align="center"><img src="/Images/Screenshots/Advanced-Port-Scanner.png"></p>
 
 > **Advanced Port Scanner is a free network scanner allowing you to quickly find open ports on network computers and retrieve versions of programs running on the detected ports** — [Advanced Port Scanner](https://www.advanced-port-scanner.com/)
 

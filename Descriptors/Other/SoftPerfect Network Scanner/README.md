@@ -1,6 +1,22 @@
 # SoftPerfect Network Scanner (netscan.exe)
 
-<p align="center"><img src="/Images/Screenshots/SoftPerfect-Network-Scanner.png"></p>
+## Table of Contents
+
+- [SoftPerfect Network Scanner (netscan.exe)](#softperfect-network-scanner-netscanexe)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 
@@ -8,6 +24,8 @@
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
 ## Description
+
+<p align="center"><img src="/Images/Screenshots/SoftPerfect-Network-Scanner.png"></p>
 
 > **Powerful multipurpose network administration tool for Windows and macOS. Can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell. It also scans for remote services, registry, files and performance counters; offers flexible filtering and display options and exports NetScan results to a variety of formats from XML to JSON.** — [SoftPerfect Network Scanner](https://www.softperfect.com/products/networkscanner/)
 

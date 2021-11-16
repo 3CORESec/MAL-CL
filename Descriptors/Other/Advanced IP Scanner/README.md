@@ -1,6 +1,22 @@
 # Advanced IP Scanner
 
-<p align="center"><img src="/Images/Screenshots/Advanced-IP-Scanner.png"></p>
+## Table of Contents
+
+- [Advanced IP Scanner](#advanced-ip-scanner)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 
@@ -8,6 +24,8 @@
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
 ## Description
+
+<p align="center"><img src="/Images/Screenshots/Advanced-IP-Scanner.png"></p>
 
 > **Advanced IP Scanner is fast and free software for network scanning. It will allow you to quickly detect all network computers and obtain access to them.** — [Advanced IP Scanner](https://www.advanced-ip-scanner.com/help/)
 

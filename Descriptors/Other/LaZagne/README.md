@@ -1,6 +1,22 @@
 # LaZagne
 
-<p align="center"><img src="/Images/Screenshots/LaZagne.png"></p>
+## Table of Contents
+
+- [LaZagne](#lazagne)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 
@@ -8,6 +24,8 @@
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
 ## Description
+
+<p align="center"><img src="/Images/Screenshots/LaZagne.png"></p>
 
 > **The LaZagne project is an open source application used to retrieve lots of passwords stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software.** — [LaZagne Github](https://github.com/AlessandroZ/LaZagne/)
 

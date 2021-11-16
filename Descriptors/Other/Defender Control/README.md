@@ -1,6 +1,22 @@
 # Defender Control
 
-<p align="center"><img src="/Images/Screenshots/DefenderControl.png"></p>
+## Table of Contents
+
+- [Defender Control](#defender-control)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 
@@ -8,6 +24,8 @@
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
 ## Description
+
+<p align="center"><img src="/Images/Screenshots/DefenderControl.png"></p>
 
 > **Defender Control is a small Portable freeware which will allow you to disable Microsoft Defenderr in Windows 10 completely.** — [Sordum](https://www.sordum.org/9480/defender-control-v2-0/)
 

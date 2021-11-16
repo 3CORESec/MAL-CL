@@ -1,6 +1,22 @@
 # IntelliAdmin Network Administrator - ProcessKill
 
-<p align="center"><img src="/Images/Screenshots/IntelliAdmin-Network-Administrator.png"></p>
+## Table of Contents
+
+- [IntelliAdmin Network Administrator - ProcessKill](#intelliadmin-network-administrator---processkill)
+  - [Table of contents](#table-of-contents)
+  - [Acknowledgement(s)](#acknowledgements)
+  - [Description](#description)
+  - [Common CommandLine](#common-commandline)
+  - [Default Install Location](#default-install-location)
+  - [DFIR Artifacts](#dfir-artifacts)
+  - [Examples In The Wild](#examples-in-the-wild)
+  - [Documentation](#documentation)
+  - [Blogs / Reports References](#blogs--reports-references)
+  - [ATT&CK Techniques](#attck-techniques)
+  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Detection Validation](#detection-validation)
+  - [Detection Rules](#detection-rules)
+  - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
 
 ## Acknowledgement(s)
 
@@ -8,6 +24,8 @@
 - Nasreddine Bencherchali - [@nas_bench](https://twitter.com/nas_bench)
 
 ## Description
+
+<p align="center"><img src="/Images/Screenshots/IntelliAdmin-Network-Administrator.png"></p>
 
 > **ProcessKill.exe is one of the tools available in the IntelliAdmin Network Administrator software. It can kill a process, or a group of processes using the name or a wildcard**
 
