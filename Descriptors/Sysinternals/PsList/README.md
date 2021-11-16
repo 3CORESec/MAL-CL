@@ -1,8 +1,8 @@
-# PsLogList
+# PsList
 
 ## Table of Contents
 
-- [PsLogList](#psloglist)
+- [PsList](#pslist)
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
@@ -25,24 +25,24 @@
 
 ## Description
 
-> **PsLogList lets you dump the contents of an Event Log on the local or a remote computer** - [MSDN](https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist)
+> **Process Status, list information about processes running in memory.** - [SS64](https://ss64.com/nt/pslist.html)
 
 ## Common CommandLine
 
 ```batch
-psloglist.exe -accepteula -x security -s -a <current_date>
+pslist -accepteula
 
-psloglist.exe security -d [NumOfDays] /accepteula
+pslist \\[RemoteComputerIP]
 ```
 
 ## Default Install Location
 
-- PsLogList is a downloadable portable utility so no installation is required to execute it.
+- PsList is a downloadable portable utility so no installation is required to execute it.
 
-- The Sysinternals suite is available in the Microsoft Store. If downloaded from there then the `PsLogList` utility will be installed in the following location:
+- The Sysinternals suite is available in the Microsoft Store. If downloaded from there then the `PsList` utility will be installed in the following location:
 
 ```batch
-C:\Program Files\WindowsApps\Microsoft.SysinternalsSuite_[Version]\Tools\PsLogList.exe
+C:\Program Files\WindowsApps\Microsoft.SysinternalsSuite_[Version]\Tools\PsList.exe
 ```
 
 ## DFIR Artifacts
@@ -51,21 +51,21 @@ C:\Program Files\WindowsApps\Microsoft.SysinternalsSuite_[Version]\Tools\PsLogLi
 
 ## Examples In The Wild
 
-- [Github Gist - winlogfinder](https://gist.github.com/jabedude/dfb103cde4e4b908fa5ac2ea2f15d774)
+- [ANY.RUN - reap_full.exe](https://app.any.run/tasks/0fe5c8d8-ef61-402c-8535-11dcb26bdec8/)
 
 ## Documentation
 
-- [Microsoft Docs - PsLogList](https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist)
-- [SS64.com - Windows CMD - PsLogList](https://ss64.com/nt/psloglist.html)
+- [Microsoft Docs - PsList](https://docs.microsoft.com/en-us/sysinternals/downloads/pslist)
+- [SS64.com - Windows CMD - PsList](https://ss64.com/nt/pslist.html)
 
 ## Blogs / Reports References
 
-- [nccgroup - Abusing cloud services to fly under the radar](https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/)
-- [Cybereason - DeadRinger: Exposing Chinese Threat Actors Targeting Major Telcos](https://www.cybereason.com/blog/deadringer-exposing-chinese-threat-actors-targeting-major-telcos)
+- [Securelist By Kaspersky - GhostEmperor: From ProxyLogon to kernel mode](https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/)
+- [Palo Alto Networks - Unite 42 - UBoatRAT Navigates East Asia](https://unit42.paloaltonetworks.com/unit42-uboatrat-navigates-east-asia/)
 
 ## ATT&CK Techniques
 
-- [T1087 - Account Discovery](https://attack.mitre.org/techniques/T1087/)
+- [T1057 - Process Discovery](https://attack.mitre.org/techniques/T1057/)
 
 ## Eventlog / Sysmon Events to Monitor
 
