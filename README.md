@@ -12,7 +12,7 @@ In our analyses it became evident that the same command-line arguments and tools
 
 # Goal
 
-There are two major goals for MAL-CL.*
+There are two major goals for MAL-CL.
 
 The first is to bring awareness to the abuse of different tools and utilities - used all over the world - by threat actors and malware. The second is to provide a single, central point, that blue teams can use to understand these tools and write better detections.
 
