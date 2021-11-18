@@ -67,7 +67,7 @@ adfind -sc domainlist
 
 ## Default Install Location
 
-- adfind is a downloadable portable executable so no installation is required to execute it.
+- ``adfind`` is a downloadable portable executable so no installation is required to execute it.
 
 ## DFIR Artifacts
 

@@ -88,7 +88,7 @@ C:\Windows\PSEXESVC.exe
 - [Securelist By Kaspersky - Cycldek: Bridging the (air) gap](https://securelist.com/cycldek-bridging-the-air-gap/97157/)
 - [Mandiant - Unhappy Hour Special: KEGTAP and SINGLEMALT With a Ransomware Chaser](https://www.mandiant.com/resources/kegtap-and-singlemalt-with-a-ransomware-chaser)
 - [Volexity - Operation Exchange Marauder: Active Exploitation of Multiple Zero-Day Microsoft Exchange Vulnerabilities](https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/)
-- [[Palo Alto Networks - Unite 42 - Mespinoza Ransomware Gang Calls Victims “Partners,” Attacks with Gasket, "MagicSocks" Tools](https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/)
+- [Palo Alto Networks - Unite 42 - Mespinoza Ransomware Gang Calls Victims “Partners,” Attacks with Gasket, "MagicSocks" Tools](https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/)
 
 ## ATT&CK Techniques
 

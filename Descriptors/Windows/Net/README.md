@@ -99,8 +99,8 @@ C:\Windows\SysWOW64\net1.exe
 
 ## Documentation
 
-- [Net.exe Utility | Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/windows/embedded/aa939914(v=winembedded.5)?redirectedfrom=MSDN)
-- [Net - Services, File/Print shares, Permissions - Windows CMD - SS64.com](https://ss64.com/nt/net.html)
+- [Microsoft Docs - Net](https://docs.microsoft.com/en-us/previous-versions/windows/embedded/aa939914(v=winembedded.5)?redirectedfrom=MSDN)
+- [SS64.com - Windows CMD - Net](https://ss64.com/nt/net.html)
 
 ## Blogs / Reports References
 
