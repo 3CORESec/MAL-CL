@@ -34,6 +34,7 @@
 
 ```batch
 paexec \\[@IP] [Command]
+
 paexec \\[@IP] -u [Username] -p [Password] -s [Command]
 ```
 
