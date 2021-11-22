@@ -30,6 +30,7 @@
 ## Common CommandLine
 
 - Note that most of the time the process is renamed but the flags are the same
+- Note that the "/" can be used instead of the "-" when calling the flags.
 
 ```batch
 rem Full Dump of a process
