@@ -28,11 +28,20 @@
 
 <p align="center"><img src="/Images/Screenshots/DefenderControl.png"></p>
 
-> **Defender Control is a small Portable freeware which will allow you to disable Microsoft Defenderr in Windows 10 completely.** — [Sordum](https://www.sordum.org/9480/defender-control-v2-0/)
+> **Defender Control is a small Portable freeware which will allow you to disable Microsoft Defender in Windows 10 completely.** — [Sordum](https://www.sordum.org/9480/defender-control-v2-0/)
 
 ## Versions History
 
-- TBD
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 2.0    | 2421ff6f2cfc1aa807eb5781b2980a6e493b31d0 | [LINK](https://www.virustotal.com/gui/file/20c730c7033b5bdc0a6510825e90449ba8f87942d2d7f61fa1ba5f100e98c141)                                                                                                             |
+| 1.9    | 755309c6d9fa4cd13b6c867cde01cc1e0d415d00 | [LINK](https://www.virustotal.com/gui/file/6606d759667fbdfaa46241db7ffb4839d2c47b88a20120446f41e916cad77d0b)                                                                                                             |
+| 1.8    | 30d262d526c7d7b34a8ea02765641a7dae51a867 | [LINK](https://www.virustotal.com/gui/file/94cd357b51381f164ed17ff16a1c036ab228350fc41fa78507ce611f3dec0efd)                                                                                                             |
+| 1.7    | 0237408cdb74ad6b8d340cdf0d03c1b1f820ce17 | [LINK](https://www.virustotal.com/gui/file/ce3a6224dae98fdaa712cfa6495cb72349f333133dbfb339c9e90699cbe4e8e4)                                                                                                             |
+| 1.6    | 5da4de1dbba55774891497297396fd2e5c306cf5 | [LINK](https://www.virustotal.com/gui/file/a201f7f81277e28c0bdd680427b979aee70e42e8a98c67f11e7c83d02f8fe7ae)                                                                                                             |
+| 1.5    | dc74a9fd5560b7c7a0fc9d183de9d676e92b9e8b | [LINK](https://www.virustotal.com/gui/file/c576f7f55c4c0304b290b15e70a638b037df15c69577cd6263329c73416e490e)                                                                                                             |
+| 1.4    | c88adeb1552f1a3e9d35e7a8e5fb7daa654c072f | [LINK](https://www.virustotal.com/gui/file/09d874b2d30d1418677618751ae57f219c062944f00d4b2def1f90a4ae9d3745)                                                                                                             |
+| 1.3    | fa003104e8e8e6646049a49bd517224ba34ac4b6 | [LINK](https://www.virustotal.com/gui/file/5161a16217b9d8b9817ad1f6e1020e2eb625bbd6ccf82fbf9423077d0c966aa0)                                                                                                             |
 
 ## Common CommandLine
 
@@ -46,7 +55,7 @@ DefenderControl.exe /D
 
 ## Default Install Location
 
-- TBD
+- ``DefenderControl`` is a downloadable portable executable so no installation is required to execute it.
 
 ## DFIR Artifacts
 
