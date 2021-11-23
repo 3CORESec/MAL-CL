@@ -32,7 +32,28 @@
 
 ## Versions History
 
-- TBD
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 2.4.3    | fa2f281fd4009100b2293e120997bfd7feb10c16 | [LINK](https://www.virustotal.com/gui/file/ed2f501408a7a6e1a854c29c4b0bc5648a6aa8612432df829008931b3e34bf56)                                                                                                             |
+| 2.4.2    | 66e4c9becbc96c57232d38bfec01fb2b352181b2 | [LINK](https://www.virustotal.com/gui/file/5a2e947aace9e081ecd2cfa7bc2e485528238555c7eeb6bcca560576d4750a50)                                                                                                             |
+| 2.4.0    | e5c2cf6a7239e895cf2b01f8a382b4463a613859 | [LINK](https://www.virustotal.com/gui/file/c03ef8106c58c8980b7859e0a8ee2363d70e2b7f1346356127c826faf2c0caa3)                                                                                                             |
+| 2.3.2 x86    | e94ab2b39f152bcae8261613796f98355e258262 | [LINK](https://www.virustotal.com/gui/file/709df1bbd0a5b15e8f205b2854204e8caf63f78203e3b595e0e66c918ec23951)                                                                                                             |
+| 2.3.2 x64    | 81451f6884a616e96cb0bf57d7052a890092ba0c | [LINK](https://www.virustotal.com/gui/file/d5fa28cbf3a73ac20d908acedfce3849477648e37391e8e926ec2e7933f175a0)                                                                                                             |
+| 2.3.1    | b4ffdf4a67c3b5343e07e581ec7aa1d6a3514569 | [LINK](https://www.virustotal.com/gui/file/6095c89d2fc86b215a1fe2d1848862d03736c9e91d4f3aa7009fb0837c1263b5)                                                                                                             |
+| 2.3.0    | d6d07c511598a6a9e3b08002afbcb7373caae406 | [LINK](https://www.virustotal.com/gui/file/058d4efce1007e6cfb7a4e0ff9fee7e0b5172a2e0059d21d876d40e4ec2d90ae)                                                                                                             |
+| 2.2    | 8900ff0ee8d70485f31dfa7d572e969dea06346a | [LINK](https://www.virustotal.com/gui/file/9485a1630d9283d7efee3828fca32d72cfcb3fb1e91015a9753df09a21f14da2)                                                                                                             |
+| 2.1    | 498ab7d75b858addb1a3952cf1541a28093916e0 | [LINK](https://www.virustotal.com/gui/file/6b6bd8516840b60faac26c3f40e50ab616e7428e763fd61f6299da2843743422)                                                                                                             |
+| 2.0    | 6571ad4133ca7425d2cfb4d36c65f7aebe13ed94 | [LINK](https://www.virustotal.com/gui/file/5d953d887abf65fa7c8d3a2336b6ec8e510b1019819e93a6cfc0d767b0c89a4c)                                                                                                             |
+| 1.8    | b59cd9c67162f4a3604353b783829fc8ef629863 | [LINK](https://www.virustotal.com/gui/file/87e2cf4aa266212aa8cf1b1c98ae905c7bac40a6fc21b8e821ffe88cf9234586)                                                                                                             |
+| 1.7    | e91593a1695f3d3c051ba52d5aba30d9031d3ce0 | [LINK](https://www.virustotal.com/gui/file/3f6e8dea07b6e87182b3068868746e5054123a7c86e04d775292af7ffd1ce9b4)                                                                                                             |
+| 1.6    | 1c95b8e5d987f2a0a642a8c1f9ee99bc78131e00 | [LINK](https://www.virustotal.com/gui/file/a64f99909adf9f29e74524eb592a1efd7f70e1fb11abc305799e9dcbc8c43f84)                                                                                                             |
+| 1.5    | 2f5a3b13439537668ddbd79d9b19309e6f30cd82 | [LINK](https://www.virustotal.com/gui/file/f3c7fd842f9391f64bb739d56558c54d5e239211069ed6592ece5c281129a273)                                                                                                             |
+| 1.4    | 34cb2a2a57e06bdc5a278c6620b5d312bb4cccb3 | [LINK](https://www.virustotal.com/gui/file/5b0a0f4e24637b56bc6734cc8be8417ddbd8964511429888df331d00bd834155)                                                                                                             |
+| 1.3    | 33b4b599cd2af718c36cee05a8bec84b2b4688cc | [LINK](https://www.virustotal.com/gui/file/b6b1115f75a124e4cf9dd776f13ed5883e1a3de96610c97645bed6770a541aec)                                                                                                             |
+| 1.1    | df4e7f468a28bca313f185eda9ea20b7c4de49eb | [LINK](https://www.virustotal.com/gui/file/82fdbbb6897d76ed4ac8e0d6341f31d2cedbcce43c219d27940f0092befeb56e)                                                                                                             |
+| 1.0    | f0893825176784827e8216b3ce9224c70c4db522 | [LINK](https://www.virustotal.com/gui/file/e3a61e9cf23cd2dcb54056aa1daa5381bd9b8d3a7e5d38c8bbd14a9e2c368a2d)                                                                                                             |
+| 0.9.1    | fd3b89c2f8bc74f199b60f7b52c83bb67eec780a | [LINK](https://www.virustotal.com/gui/file/398ca467689d459a370ea4c1d454638feda4f75433b54a81de8f3c69719d9380)                                                                                                             |
+| 0.9    | b2a013ce5e0fa720c41744e75cefe77e7a09ad13 | [LINK](https://www.virustotal.com/gui/file/9c89a4750109bbf1362afe937daacbb55ef4aa9440f934c3175f0b07ce7845a0)                                                                                                             |
 
 ## Common CommandLine
 
