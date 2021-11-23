@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **Vssadmin is a command-line utility that displays current volume shadow copy backups and all installed shadow copy writers and providers, deletes a specified volume's shadow copies and lists all existing shadow copies of a specified volume** — [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

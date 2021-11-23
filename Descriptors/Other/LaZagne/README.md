@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -28,6 +29,10 @@
 <p align="center"><img src="/Images/Screenshots/LaZagne.png"></p>
 
 > **The LaZagne project is an open source application used to retrieve lots of passwords stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software.** — [LaZagne Github](https://github.com/AlessandroZ/LaZagne/)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

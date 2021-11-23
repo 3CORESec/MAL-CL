@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -28,6 +29,10 @@
 <p align="center"><img src="/Images/Screenshots/SoftPerfect-Network-Scanner.png"></p>
 
 > **Powerful multipurpose network administration tool for Windows and macOS. Can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell. It also scans for remote services, registry, files and performance counters; offers flexible filtering and display options and exports NetScan results to a variety of formats from XML to JSON.** — [SoftPerfect Network Scanner](https://www.softperfect.com/products/networkscanner/)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

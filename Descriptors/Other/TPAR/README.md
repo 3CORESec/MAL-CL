@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **Third Party Application Remover or TPAR is a utility that can remove 3rd party security software**
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

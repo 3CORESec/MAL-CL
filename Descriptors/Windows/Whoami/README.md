@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **Whoami is command-line utility that displays user, group and privileges information for the user who is currently logged on to the local system.** — [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/whoami)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

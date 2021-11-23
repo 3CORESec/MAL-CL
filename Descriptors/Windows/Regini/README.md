@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **Regini is a windows utility that modifies the registry from the command line or a script, and applies changes that were preset in one or more text files** - [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/regini)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

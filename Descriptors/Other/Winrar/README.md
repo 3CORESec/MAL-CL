@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **WinRAR is Windows version of the RAR archiver - a powerful tool which allows you to create, manage and control archive files** - [WinRAR](https://documentation.help/WinRAR/HELPRarInfo.htm)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

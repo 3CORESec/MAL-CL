@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **Wevtutil is a utility that enables you to retrieve information about event logs and publishers, install and uninstall event manifests, run queries, and to export, archive, and clear logs** — [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

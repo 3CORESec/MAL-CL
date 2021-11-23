@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Executables Included](#executables-included)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
@@ -27,6 +28,10 @@
 ## Description
 
 > **NirSoft Web site provides free password recovery tools for variety of Windows programs, including Chrome Web browser, Firefox Web browser, Microsoft Edge, Internet Explorer, Microsoft Outlook, Network passwords of Windows, Wireless network keys, Dialup entries of Windows, and more...** — [NirSoft](https://www.nirsoft.net/password_recovery_tools.html)
+
+## Versions History
+
+- TBD
 
 ## Executables Included
 

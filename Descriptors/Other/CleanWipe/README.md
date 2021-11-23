@@ -8,6 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -30,6 +31,10 @@
 <p align="center"><img src="/Images/Screenshots/CleanWipe.png"></p>
 
 > **Symantec CleanWipe removal tool is a utility that removes any Symantec software, such as Symantec Endpoint Protection**
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 

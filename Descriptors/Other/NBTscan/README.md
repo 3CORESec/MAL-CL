@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
+  - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -26,6 +27,10 @@
 ## Description
 
 > **NBTscan is a program for scanning IP networks for NetBIOS name information** — [Inetcat](https://web.archive.org/web/20120420121302/http://www.inetcat.net/software/nbtscan.html)
+
+## Versions History
+
+- TBD
 
 ## Common CommandLine
 
