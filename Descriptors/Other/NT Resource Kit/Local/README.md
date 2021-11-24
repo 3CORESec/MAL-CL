@@ -80,7 +80,7 @@ Notes:
 
 ## Blogs / Reports References
 
-- [Securelist By Kaspersky - Striking Oil: A Closer Look at Adversary Infrastructure](https://unit42.paloaltonetworks.com/unit42-striking-oil-closer-look-adversary-infrastructure/)
+- [Palo Alto Networks - Unite 42 - Striking Oil: A Closer Look at Adversary Infrastructure](https://unit42.paloaltonetworks.com/unit42-striking-oil-closer-look-adversary-infrastructure/)
 
 ## ATT&CK Techniques
 
