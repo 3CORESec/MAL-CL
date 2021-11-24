@@ -66,7 +66,33 @@ C:\Users\[user]\AppData\Local\Programs\Advanced Port Scanner Portable\
 
 ## Documentation
 
-- [Advanced Port Scanner — Help](https://www.advanced-port-scanner.com/help/)
+- [Advanced Port Scanner (GUI) — Help](https://www.advanced-port-scanner.com/help/)
+
+- Advanced Port Scanner Help:
+
+```yaml
+Usage:
+</r:<IP range> OR /s:<source_file>> [/p:<ports list>] [/f:<output_file>]
+
+Description:
+/r - address or range of IP addresses to scan, ex 192.168.0.1-192.168.0.255
+or
+/s - path to the file with IP ranges with 1 IP/IP range per line format, ex
+     192.168.0.1-192.168.0.128
+     192.168.0.155
+     192.168.1.10
+
+/p - list of ports to scan, ex
+     1-20
+     1,2,UDP:1-10
+
+/f - path to the file where scan results will be written
+
+Example:
+advanced_port_scanner_console.exe /r:192.168.0.1-192.168.0.255
+advanced_port_scanner_console.exe /r:192.168.0.1-192.168.0.255 /p:1-10
+advanced_port_scanner_console.exe /s:ip_ranges.txt /f:scan_results.txt
+```
 
 ## Blogs / Reports References
 

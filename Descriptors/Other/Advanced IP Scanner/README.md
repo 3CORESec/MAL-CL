@@ -71,7 +71,29 @@ C:\Users\[user]\AppData\Local\Programs\Advanced IP Scanner Portable\
 
 ## Documentation
 
-- [Advanced IP Scanner — Help](https://www.advanced-ip-scanner.com/help/)
+- [Advanced IP Scanner (GUI) — Help](https://www.advanced-ip-scanner.com/help/)
+
+- Advanced IP Scanner Console Help:
+
+```yaml
+Usage:
+</r:<IP range> OR /s:<source_file>> [/f:<output_file>] [/v]
+
+Description:
+/r - address or range of IP addresses to scan, ex 192.168.0.1-192.168.0.255
+or
+/s - path to the file with IP ranges with 1 IP/IP range per line format, ex
+     192.168.0.1-192.168.0.128
+     192.168.0.155
+     192.168.1.10
+
+/f - path to the file where scan results will be written
+
+/v - show results of service scan (/v2 to show grouped)
+Example:
+advanced_ip_scanner_console.exe /r:192.168.0.1-192.168.0.255
+advanced_ip_scanner_console.exe /s:ip_ranges.txt /f:scan_results.txt
+```
 
 ## Blogs / Reports References
 
