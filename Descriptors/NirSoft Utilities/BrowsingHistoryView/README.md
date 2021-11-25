@@ -34,6 +34,10 @@
 |---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | 2.50 (x86)   | 441e7d140a4d831c8ac550c1ea8db4db214516dc | [LINK](https://www.virustotal.com/gui/file/61ccbeee05269bba4b2e121e48f153b59abef08e718d3f049090afb95f1853b5)                                                                                                             |
 | 2.50 (x64)    | 30e4ed8f24ca68d3776372cef8484a54db4af3cb | [LINK](https://www.virustotal.com/gui/file/e8666204dcda71dfef778f40beebc76b4266443a925fcf88a9b3c6001b2a0030)                                                                                                             |
+| 2.46 (x86)    | 0b03b34cfb2985a840db279778ca828e69813116 | [LINK](https://www.virustotal.com/gui/file/deb1246347ce88e8cdd63a233a64bc2090b839f2d933a3097a2fd8fd913c4112)                                                                                                             |
+| 2.46 (x64)    | 6626524933ec7a54713e615cc4565b3293c1f570 | [LINK](https://www.virustotal.com/gui/file/0e56e1d0e1ff6659de6c9521c01688360477b94fafc203bcba2cdce60b32c97b)                                                                                                             |
+| 2.45 (x86)    | 79bd39f7ca8649907782a5efe3c2c0c3f0084258 | [LINK](https://www.virustotal.com/gui/file/c3b1694aa27e1c861ddb21b84955b646f0e371130accbbc9689ce7973ec4e0cf)                                                                                                             |
+| 2.45 (x64)    | 6626524933ec7a54713e615cc4565b3293c1f570 | [LINK](https://www.virustotal.com/gui/file/10ccf0ce2bd63d35ab92a2af8d81d2dd04fa014a855bb3e32ee0bb7f121ec979)                                                                                                             |
 
 ## Common CommandLine
 
@@ -68,7 +72,7 @@ Here is a list of some of the available export flags (See [docs](#documentation)
 
 ## Default Install Location
 
-- TBD
+- BrowsingHistoryView is a downloadable portable package so no installation is required to execute it.
 
 ## DFIR Artifacts
 
@@ -87,7 +91,7 @@ Here is a list of some of the available export flags (See [docs](#documentation)
 
 ## Blogs / Reports References
 
-- [Trendmicro  - New RETADUP Variants Hit South America, Turn To Cryptocurrency Mining](https://blog.trendmicro.com/trendlabs-security-intelligence/new-retadup-variants-hit-south-america-turn-cryptocurrency-mining/)
+- [Trend Micro  - New RETADUP Variants Hit South America, Turn To Cryptocurrency Mining](https://blog.trendmicro.com/trendlabs-security-intelligence/new-retadup-variants-hit-south-america-turn-cryptocurrency-mining/)
 
 ## ATT&CK Techniques
 

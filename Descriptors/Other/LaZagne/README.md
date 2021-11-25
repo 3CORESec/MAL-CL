@@ -67,6 +67,8 @@ laZagne.exe browsers
 laZagne.exe Sysadmin
 ```
 
+- See [docs](#documentation) below for a complete list of arguments
+
 ## Default Install Location
 
 - TBD

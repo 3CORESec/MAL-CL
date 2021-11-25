@@ -83,7 +83,7 @@ Here is a list of some of the available export flags (See [docs](#documentation)
 
 ## Default Install Location
 
-- TBD
+- The ``NirSoft Password Recovery Tools`` are a set of downloadable portable packages, so no installation is required to execute them.
 
 ## DFIR Artifacts
 
