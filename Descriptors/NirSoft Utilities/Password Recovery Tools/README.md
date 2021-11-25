@@ -1,13 +1,12 @@
-# NirSoft Windows Password Recovery Tools
+# NirSoft Password Recovery Tools
 
 ## Table of Contents
 
-- [NirSoft Windows Password Recovery Tools](#nirsoft-windows-password-recovery-tools)
+- [NirSoft Password Recovery Tools](#nirsoft-password-recovery-tools)
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
-  - [Executables Included](#executables-included)
   - [Common CommandLine](#common-commandline)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
@@ -27,14 +26,17 @@
 
 ## Description
 
-> **NirSoft Web site provides free password recovery tools for variety of Windows programs, including Chrome Web browser, Firefox Web browser, Microsoft Edge, Internet Explorer, Microsoft Outlook, Network passwords of Windows, Wireless network keys, Dialup entries of Windows, and more...** — [NirSoft](https://www.nirsoft.net/password_recovery_tools.html)
+> **NirSoft Web site provides free password recovery tools for variety of Windows programs, including Chrome Web browser, Firefox Web browser, Microsoft Edge, Internet Explorer, Microsoft Outlook, Network passwords of Windows, Wireless network keys, Dialup entries of Windows, and more.** — [NirSoft](https://www.nirsoft.net/password_recovery_tools.html)
 
 ## Versions History
 
 - TBD
 
-## Executables Included
+## Common CommandLine
 
+- Executables Included
+
+```yaml
 - ChromePass.exe
 - Dialupass.exe
 - iepv.exe (IE PassView)
@@ -44,8 +46,7 @@
 - PasswordFox.exe
 - PstPassword.exe
 - WebBrowserPassView.exe
-
-## Common CommandLine
+```
 
 All the tools have the same commandline arguments to export passwords
 
@@ -60,7 +61,7 @@ rem Exporting passwords using any of the tools above
 [ToolName].exe /stext [PathToSaveOnDisk]
 ```
 
-Here is a list of some of the available export flags (See [docs](#documentation) below for complete list for every tool)
+Here is a list of some of the available export flags (See [docs](#documentation) below for a complete list for every tool)
 
 ```batch
 /stext <Filename> - Save the list of passwords into a regular text file.
