@@ -87,7 +87,8 @@ nbtscan -f [Filename]
 
 ## Detection Validation
 
-- TBD
+- **NextronSystems - APTSimulator**
+  - [NETBIOS Discovery - Executes nbtscan on the local network](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/discovery/nbtscan.bat)
 
 ## Detection Rules
 

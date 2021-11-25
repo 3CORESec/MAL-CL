@@ -115,7 +115,9 @@ laZagne.exe Sysadmin
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [LaZagne - Credentials from Browser](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1555.003/T1555.003.md#atomic-test-3---lazagne---credentials-from-browser)
+  - [Extract Browser and System credentials with LaZagne](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1552.001/T1552.001.md#atomic-test-1---extract-browser-and-system-credentials-with-lazagne)
 
 ## Detection Rules
 

@@ -97,7 +97,12 @@ C:\Program Files\WinRAR\rar.exe
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [Compress Data for Exfiltration With Rar](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1560.001/T1560.001.md#atomic-test-1---compress-data-for-exfiltration-with-rar)
+  - [Compress Data and lock with password for Exfiltration with winrar](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1560.001/T1560.001.md#atomic-test-2---compress-data-and-lock-with-password-for-exfiltration-with-winrar)
+
+- **Elastic - Red Team Automation**
+  - [Encrypting files with WinRAR](https://github.com/elastic/detection-rules/blob/main/rta/winrar_encrypted.py)
 
 ## Detection Rules
 

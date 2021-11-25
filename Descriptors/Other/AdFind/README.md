@@ -115,7 +115,17 @@ adfind -sc domainlist
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [Adfind -Listing password policy](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1087.002/T1087.002.md#atomic-test-5---adfind--listing-password-policy)
+  - [Adfind - Enumerate Active Directory Admins](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1087.002/T1087.002.md#atomic-test-6---adfind---enumerate-active-directory-admins)
+  - [Adfind - Enumerate Active Directory User Objects](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1087.002/T1087.002.md#atomic-test-7---adfind---enumerate-active-directory-user-objects)
+  - [Adfind - Enumerate Active Directory Exchange AD Objects](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1087.002/T1087.002.md#atomic-test-8---adfind---enumerate-active-directory-exchange-ad-objects)
+  - [Adfind - Enumerate Active Directory OUs](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1482/T1482.md#atomic-test-4---adfind---enumerate-active-directory-ous)
+  - [Adfind - Enumerate Active Directory Trusts](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1482/T1482.md#atomic-test-5---adfind---enumerate-active-directory-trusts)
+  - [Adfind - Enumerate Active Directory Computer Objects](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1018/T1018.md#atomic-test-10---adfind---enumerate-active-directory-computer-objects)
+  - [Adfind - Enumerate Active Directory Domain Controller Objects](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1018/T1018.md#atomic-test-11---adfind---enumerate-active-directory-domain-controller-objects)
+  - [Adfind - Query Active Directory Groups](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1069.002/T1069.002.md#atomic-test-8---adfind---query-active-directory-groups)
+  - [Adfind - Enumerate Active Directory Subnet Objects](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1016/T1016.md#atomic-test-6---adfind---enumerate-active-directory-subnet-objects)
 
 ## Detection Rules
 
