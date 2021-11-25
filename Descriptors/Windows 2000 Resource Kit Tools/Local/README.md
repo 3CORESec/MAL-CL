@@ -1,8 +1,8 @@
-# AddUsers (AddUsers.exe)
+# Local (local.exe)
 
 ## Table of Contents
 
-- [AddUsers (AddUsers.exe)](#addusers-addusersexe)
+- [Local (local.exe)](#local-localexe)
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
@@ -26,7 +26,7 @@
 
 ## Description
 
-> **Addusers is autility that uses a comma-delimited file to create, write, and delete user accounts.**
+> **Displays members of local groups on remote servers or domains.**
 
 ## Versions History
 
@@ -35,18 +35,16 @@
 ## Common CommandLine
 
 ```batch
-rem Create user[s] from file
-AddUsers /c [FileContainingListOfUsers]
+local [GroupName] [Domain]
 
-rem Dump user accounts, local groups, and global groups to a file
-AddUsers /d [Filename]
+local [GroupName] \\[@IP]
 ```
 
 ## Default Install Location
 
-- AddUsers is a downloadable portable utility so no installation is required to execute it.
+- Local is a downloadable portable utility so no installation is required to execute it.
 
-- AddUsers is part of the Microsoft Windows NT Resource Kit.
+- Local is part of the Microsoft Windows 2000 Resource Kit Tools.
 
 ## DFIR Artifacts
 
@@ -58,21 +56,39 @@ AddUsers /d [Filename]
 
 ## Documentation
 
-- [SS64 - Windows CMD - AddUsers](https://ss64.com/nt/addusers.html)
+```yaml
+Displays members of local groups on remote servers or domains.
+
+LOCAL group_name domain_name | \\server
+
+  group_name    The name of the local group to list the members of.
+  domain_name   The name of a network domain.
+  \\server      The name of a network server.
+
+Examples:
+  Local "Power Users" EastCoast
+  Displays the members of the group 'Power Users' in the EastCoast domain.
+
+  Local Administrators \\BLACKCAT
+  Displays the members of the group Administrators on server BLACKCAT.
+
+Notes:
+  Names that include space characters must be enclosed in double quotes.
+  To list members of global groups use Global.Exe.
+  To get the Server name for a give Domain use GetDC.Exe.
+```
 
 ## Blogs / Reports References
 
-- TBD
+- [Palo Alto Networks - Unite 42 - Striking Oil: A Closer Look at Adversary Infrastructure](https://unit42.paloaltonetworks.com/unit42-striking-oil-closer-look-adversary-infrastructure/)
 
 ## ATT&CK Techniques
 
-- [T1136.001 - Create Account: Local Account](https://attack.mitre.org/techniques/T1136/001/)
-- [T1531 - Account Access Removal](https://attack.mitre.org/techniques/T1531/)
+- [T1057 - Process Discovery](https://attack.mitre.org/techniques/T1057/)
 
 ## Eventlog / Sysmon Events to Monitor
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
-- [Security Event ID 4720 - A user account was created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4720)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)
 
 ## Detection Validation

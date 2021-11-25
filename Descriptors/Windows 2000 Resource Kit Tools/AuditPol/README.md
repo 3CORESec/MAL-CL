@@ -47,7 +47,7 @@ AuditPol \\[IP] /disable
 
 - AuditPol is a downloadable portable utility so no installation is required to execute it.
 
-- AuditPol is part of the Microsoft Windows NT Resource Kit.
+- AuditPol is part of the Microsoft Windows 2000 Resource Kit Tools.
 
 ## DFIR Artifacts
 
