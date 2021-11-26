@@ -23,17 +23,17 @@ The following MindMap display the tools and utilities currently covered by MAL-C
 ![coverage-mindmap](./Images/MindMaps/MAL-CL-Coverage-MindMap.png)
 
 - 🔍 [Other](./Descriptors/Other)
-- 🔍 [Antivirus](./Descriptors/Antivirus)
 - 🔍 [NirSoft Utilities](./Descriptors/NirSoft%20Utilities)
-- 🔍 [Sysinternals](./Descriptors/Sysinternals)
+- 🔍 [Antivirus](./Descriptors/Antivirus)
 - 🔍 [Windows](./Descriptors/Windows)
 - 🔍 [Windows 2000 Resource Kit Tools](./Descriptors/Windows%202000%20Resource%20Kit%20Tools)
+- 🔍 [Sysinternals](./Descriptors/Sysinternals)
 
 ## Contributing
 
 If you find a process or a tool that has some command-line options that can or have been (ab)used, please consider contributing them.
 
-- Create a folder with a name of the tool inside one of the available platforms (`Antivirus`, `NirSoft Utilities`, `Sysinternals`, `Windows`, `Windows 2000 Resource Kit Tools` ,`Other`).
+- Create a folder with a name of the tool inside one of the available platforms (`Other`, `NirSoft Utilities`, `Antivirus`, `Windows`, `Windows 2000 Resource Kit Tools`, `Sysinternals`).
 - Inside that folder create a `README.md` (Descriptor) file.
 
 You can use the template available [here](./Template) or simply copy one the already existsting README files and use it as a base. Please follow the same structure and don't remove any titles (all are required).
