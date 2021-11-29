@@ -8,13 +8,15 @@
   - [Description](#description)
   - [Versions History](#versions-history)
   - [Common CommandLine](#common-commandline)
+  - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
+  - [Common Process Trees](#common-process-trees)
   - [Default Install Location](#default-install-location)
   - [DFIR Artifacts](#dfir-artifacts)
   - [Examples In The Wild](#examples-in-the-wild)
   - [Documentation](#documentation)
   - [Blogs / Reports References](#blogs--reports-references)
   - [ATT&CK Techniques](#attck-techniques)
-  - [Eventlog / Sysmon Events to Monitor](#eventlog--sysmon-events-to-monitor)
+  - [Telemetry](#telemetry)
   - [Detection Validation](#detection-validation)
   - [Detection Rules](#detection-rules)
   - [LOLBAS / GTFOBins References](#lolbas--gtfobins-references)
@@ -47,6 +49,14 @@ nltest /dclist:"[DOMAIN NAME]"
 rem Query the Domain Name System (DNS) server for a list of DCs and their IP addresses.
 nltest /dsgetdc:"[DOMAIN NAME]"
 ```
+
+## Threat Actor Ops (TAOps)
+
+- TBD
+
+## Common Process Trees
+
+- TBD
 
 ## Default Install Location
 
