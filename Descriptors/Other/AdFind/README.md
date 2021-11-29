@@ -108,7 +108,7 @@ adfind -sc domainlist
 - [T1087.002 - Account Discovery: Domain Account](https://attack.mitre.org/techniques/T1087/002)
 - [T1482 - Domain Trust Discovery](https://attack.mitre.org/techniques/T1482)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 — A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 — Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

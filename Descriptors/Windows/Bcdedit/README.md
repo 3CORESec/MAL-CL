@@ -94,7 +94,7 @@ C:\Windows\System32\bcdedit.exe
 - [T1490 - Inhibit System Recovery](https://attack.mitre.org/techniques/T1490/)
 - [T1562.009 - Impair Defenses: Safe Mode Boot](https://attack.mitre.org/techniques/T1562/009/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

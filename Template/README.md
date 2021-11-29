@@ -69,7 +69,7 @@ X:\XXXXX\XXXX\XXXX.exe
 
 - [TXXXX - TechniqueName](#link)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [EventSource Event ID XXXX - Title](#link)
 

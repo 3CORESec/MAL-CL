@@ -74,7 +74,7 @@ C:\Windows\SysWOW64\auditpol.exe
 
 - [T1562.002 - Impair Defenses: Disable Windows Event Logging](https://attack.mitre.org/techniques/T1562/002/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Security Event ID 4719 - System Audit Policy Was Changed](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4719)

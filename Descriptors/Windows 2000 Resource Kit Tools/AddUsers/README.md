@@ -69,7 +69,7 @@ AddUsers /d [Filename]
 - [T1136.001 - Create Account: Local Account](https://attack.mitre.org/techniques/T1136/001/)
 - [T1531 - Account Access Removal](https://attack.mitre.org/techniques/T1531/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Security Event ID 4720 - A user account was created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4720)

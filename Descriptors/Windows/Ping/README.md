@@ -83,7 +83,7 @@ C:\Windows\SysWOW64\ping.exe
 
 - [T1018 - Remote System Discovery](https://attack.mitre.org/techniques/T1018/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - TBD
 

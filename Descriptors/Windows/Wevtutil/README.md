@@ -92,7 +92,7 @@ C:\Windows\SysWOW64\wevtutil.exe
 - [T1562.002 - Impair Defenses: Disable Windows Event Logging](https://attack.mitre.org/techniques/T1562/002)
 - [T1070.001 - Indicator Removal on Host: Clear Windows Event Logs](https://attack.mitre.org/techniques/T1070/001)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

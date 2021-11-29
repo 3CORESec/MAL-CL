@@ -105,7 +105,7 @@ C:\Windows\SysWOW64\netstat.exe
 
 - [T1049 - System Network Connections Discovery](https://attack.mitre.org/techniques/T1049)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

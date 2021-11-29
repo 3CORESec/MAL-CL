@@ -103,7 +103,7 @@ advanced_port_scanner_console.exe /s:ip_ranges.txt /f:scan_results.txt
 - [T1046 — Network Service Scanning](https://attack.mitre.org/techniques/T1046/)
 - [T1135 — Network Share Discovery](https://attack.mitre.org/versions/v9/techniques/T1135/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 — A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 — Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

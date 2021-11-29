@@ -93,7 +93,7 @@ C:\Windows\System32\vssadmin.exe
 - [T1486 - Data Encrypted for Impact](https://attack.mitre.org/techniques/T1486/)
 - [T1490 - Inhibit System Recovery](https://attack.mitre.org/techniques/T1490/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

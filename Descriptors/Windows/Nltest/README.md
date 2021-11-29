@@ -83,7 +83,7 @@ C:\Windows\SysWOW64\nltest.exe
 - [T1018 — Remote System Discovery](https://attack.mitre.org/techniques/T1018/)
 - [T1016 — System Network Configuration Discovery](https://attack.mitre.org/techniques/T1016/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

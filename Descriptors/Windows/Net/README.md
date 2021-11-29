@@ -136,7 +136,7 @@ C:\Windows\SysWOW64\net1.exe
 - [T1569.002 System Services: Service Execution](https://attack.mitre.org/techniques/T1569/002/)
 - [T1124 System Time Discovery](https://attack.mitre.org/techniques/T1124/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Security Event ID 4720 - A user account was created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4720)

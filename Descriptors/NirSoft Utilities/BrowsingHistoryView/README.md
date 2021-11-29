@@ -98,7 +98,7 @@ Here is a list of some of the available export flags (See [docs](#documentation)
 - [T1083 - File and Directory Discovery](https://attack.mitre.org/techniques/T1083/)
 - [T1533 - Data from Local System](https://attack.mitre.org/techniques/T1533/)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)

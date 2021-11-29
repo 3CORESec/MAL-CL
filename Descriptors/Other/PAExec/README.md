@@ -93,7 +93,7 @@ C:\Windows\PAExec-PID-Hostname.exe
 - [T1569.002 - System Services: Service Execution](https://attack.mitre.org/techniques/T1021/002)
 - [T1570 - Lateral Tool Transfer](https://attack.mitre.org/techniques/T1570)
 
-## Eventlog / Sysmon Events to Monitor
+## Telemetry
 
 - [Security Event ID 4688 - A new process has been created](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)
