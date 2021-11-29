@@ -155,6 +155,8 @@ C:\Windows\SysWOW64\net1.exe
 - [Security Event ID 4726 - A user account was deleted](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4726)
 - [Service Control Manager Event ID 7036](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc756308(v=ws.10)?redirectedfrom=MSDN)
 - [Sysmon Event ID 1 - Process creation](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)
+- [PsSetCreateProcessNotifyRoutine/Ex](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/ntddk/nf-ntddk-pssetcreateprocessnotifyroutineex)
+- [ETW - Microsoft-Windows-Kernel-Process - Event ID 1 - ProcessStart](https://github.com/nasbench/EVTX-ETW-Resources)
 
 ## Detection Validation
 
