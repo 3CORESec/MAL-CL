@@ -154,7 +154,7 @@ C:\Windows\SysWOW64\mshta.exe
 - [Cybereason - THREAT ALERT: Microsoft Exchange ProxyShell Exploits and LockFile Ransomware](https://www.cybereason.com/blog/threat-alert-microsoft-exchange-proxyshell-exploits-and-lockfile-ransomware)
 - [WeLiveSecurity - Buhtrap backdoor and Buran ransomware distributed via major advertising platform](https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/)
 - [Securelist By Kaspersky - Andariel evolves to target South Korea with ransomware](https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/102811/)
-- [Securelist By Kaspersky - I know what you did last summer, MuddyWater blending in the crowd](https://securelist.com/muddywaters-arsenal/90659/)wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/71275/)
+- [Securelist By Kaspersky - I know what you did last summer, MuddyWater blending in the crowd](https://securelist.com/muddywaters-arsenal/90659/)
 - [The DFIR Report - PYSA/Mespinoza Ransomware](https://thedfirreport.com/2020/11/23/pysa-mespinoza-ransomware/)
 - [Palo Alto Networks - Unite 42 - TA551: Email Attack Campaign Switches from Valak to IcedID](https://unit42.paloaltonetworks.com/ta551-shathak-icedid/)
 - [Palo Alto Networks - Unite 42 - Aggah Campaign: Bit.ly, BlogSpot, and Pastebin Used for C2 in Large Scale Campaign](https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/)
