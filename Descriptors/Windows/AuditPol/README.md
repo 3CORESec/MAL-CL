@@ -61,11 +61,27 @@ auditpol /restore /file:[RestoreFile]
 
 ## Threat Actor Ops (TAOps)
 
-- TBD
+- [Disabling and re-enabling "Detailed tracking" only after execution of malicious commands](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
+
+```batch
+auditpol /set /category:"Detailed Tracking" /success:disable /failure:disable
+[execution of several commands and actions]
+auditpol /set /category:"Detailed Tracking" /success:enable /failure:enable
+```
 
 ## Common Process Trees
 
-- TBD
+- Auditpol launched from CMD or PowerShell
+
+```yaml
+.
+└── cmd.exe
+    └── auditpol.exe
+
+.
+└── powershell.exe
+    └── auditpol.exe
+```
 
 ## Default Install Location
 

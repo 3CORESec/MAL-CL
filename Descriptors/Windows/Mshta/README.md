@@ -111,6 +111,14 @@ mshta hxxps://bit[.]ly/XXXXX
     └── mshta.exe
 ```
 
+- Mshta launched as part of an installer
+
+```yaml
+.
+└── random_installer.exe
+    └── mshta.exe
+```
+
 ## Default Install Location
 
 ```batch
