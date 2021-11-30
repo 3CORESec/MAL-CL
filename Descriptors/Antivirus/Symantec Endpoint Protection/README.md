@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Symantec Client Management Component or (smc.exe) is a command-line utility that can manage (enable, disable, export) different components of SEP**
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

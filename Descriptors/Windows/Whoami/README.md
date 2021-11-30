@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Whoami is command-line utility that displays user, group and privileges information for the user who is currently logged on to the local system.** — [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/whoami)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

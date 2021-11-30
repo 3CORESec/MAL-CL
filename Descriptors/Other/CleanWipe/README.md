@@ -9,6 +9,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -35,6 +36,10 @@
 > **Symantec CleanWipe removal tool is a utility that removes any Symantec software, such as Symantec Endpoint Protection**
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

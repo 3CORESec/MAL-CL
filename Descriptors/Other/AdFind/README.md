@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Command line Active Directory query tool. Mixture of ldapsearch, search.vbs, ldp, dsquery, and dsget tools with a ton of other cool features thrown in for good measure. This tool proceeded dsquery/dsget/etc by years though I did adopt some of the useful stuff from those tools.** - [Joeware](https://www.joeware.net/freetools/tools/adfind/)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

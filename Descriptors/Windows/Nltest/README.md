@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Network Location Test — List domain controllers(DCs), Force a remote shutdown, Query the status of trust, test trust relationships and the state of domain controller replication.** — [SS64](https://ss64.com/nt/nltest.html)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

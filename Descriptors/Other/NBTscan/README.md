@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **NBTscan is a program for scanning IP networks for NetBIOS name information** — [Inetcat](https://web.archive.org/web/20120420121302/http://www.inetcat.net/software/nbtscan.html)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

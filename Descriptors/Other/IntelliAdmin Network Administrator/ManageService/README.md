@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -33,6 +34,10 @@
 > **ManageService.exe is one of the tools available in the IntelliAdmin Network Administrator software. It can stop, start and set the startup status of services**
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -33,6 +34,10 @@
 > **Powerful multipurpose network administration tool for Windows and macOS. Can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell. It also scans for remote services, registry, files and performance counters; offers flexible filtering and display options and exports NetScan results to a variety of formats from XML to JSON.** — [SoftPerfect Network Scanner](https://www.softperfect.com/products/networkscanner/)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

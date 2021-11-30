@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Wevtutil is a utility that enables you to retrieve information about event logs and publishers, install and uninstall event manifests, run queries, and to export, archive, and clear logs** — [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

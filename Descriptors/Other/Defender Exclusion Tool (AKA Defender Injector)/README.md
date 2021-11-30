@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -39,6 +40,10 @@
 | 1.3    | d2b13b47eeab95a98ba93fa2bd86419029f2c5b1 | [LINK](https://www.virustotal.com/gui/file/7d8f35945c17c54056d4aaca05c14bd45640a8c9d1d38f646ae06a8b9cb0c117)                                                                                                             |
 | 1.2    | aacc088dfbb8a5b97bf0fe1666dd974d6c578383 | [LINK](https://www.virustotal.com/gui/file/3cbbd45d2acc6fe5dbb71faa7febc910329d1b032aaaede54036b203a6563367)                                                                                                             |
 | 1.1    | 68bcdb4bd98a710cce5bfc4c6f3cea0b4ce854b4 | [LINK](https://www.virustotal.com/gui/file/4b3a81fe645bae70594161be1c467636b9caf36a1451c615f79e8ae24609f975)                                                                                                             |
+
+## File Metadata
+
+- TBD
 
 ## Common CommandLine
 

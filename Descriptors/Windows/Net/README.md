@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **The Net.exe Utility component is a command-line tool that controls users, groups, services, and network connections.** — [MSDN](https://docs.microsoft.com/en-us/previous-versions/windows/embedded/aa939914(v=winembedded.5)?redirectedfrom=MSDN)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

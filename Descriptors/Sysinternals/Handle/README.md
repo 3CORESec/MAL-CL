@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Handle is a utility that displays information about open handles for any process in the system.** - [MSDN](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

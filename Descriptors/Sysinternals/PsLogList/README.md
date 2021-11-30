@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **PsLogList lets you dump the contents of an Event Log on the local or a remote computer** - [MSDN](https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

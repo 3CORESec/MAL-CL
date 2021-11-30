@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Vssadmin is a command-line utility that displays current volume shadow copy backups and all installed shadow copy writers and providers, deletes a specified volume's shadow copies and lists all existing shadow copies of a specified volume** — [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

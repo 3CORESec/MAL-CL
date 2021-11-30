@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -33,6 +34,10 @@
 > **RegistrySet.exe is one of the tools available in the IntelliAdmin Network Administrator software. It can create, modify or delete registry keys**
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Regedit is a GUI based registry editor that can be used via command-line to import, export or delete registry settings from a text (.REG) file.** - [SS64](https://ss64.com/nt/regedit.html)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Process Status, list information about processes running in memory.** - [SS64](https://ss64.com/nt/pslist.html)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

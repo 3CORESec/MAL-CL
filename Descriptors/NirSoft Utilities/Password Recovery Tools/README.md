@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **NirSoft Web site provides free password recovery tools for variety of Windows programs, including Chrome Web browser, Firefox Web browser, Microsoft Edge, Internet Explorer, Microsoft Outlook, Network passwords of Windows, Wireless network keys, Dialup entries of Windows, and more.** — [NirSoft](https://www.nirsoft.net/password_recovery_tools.html)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

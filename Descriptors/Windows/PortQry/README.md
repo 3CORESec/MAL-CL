@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Portqry is a command-line utility that you can use to help troubleshoot TCP/IP connectivity issues. The utility reports the port status of TCP and UDP ports on a computer that you select.** - [MSDN](https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/portqry-exe-command-line-utility)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

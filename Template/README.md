@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -34,6 +35,10 @@
 | Version | SHA1                                     | VT                                                                                                                   |
 |---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | X.XX    | 0000000000000000000000000000000000000000 | [LINK]()                                                                                                             |
+
+## File Metadata
+
+- TBD
 
 ## Common CommandLine
 

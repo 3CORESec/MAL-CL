@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **WinRAR is Windows version of the RAR archiver - a powerful tool which allows you to create, manage and control archive files** - [WinRAR](https://documentation.help/WinRAR/HELPRarInfo.htm)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

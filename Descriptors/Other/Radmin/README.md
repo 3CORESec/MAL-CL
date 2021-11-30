@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -33,6 +34,10 @@
 > **Radmin is a remote control program that lets you work on another computer through your own** — [Radmin](https://www.radmin.com/support/radmin3help/files/about.htm)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

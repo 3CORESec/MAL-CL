@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **The reg utility performs operations on registry subkey information and values in registry entries.** - [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/reg)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

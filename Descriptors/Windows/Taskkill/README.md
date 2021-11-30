@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **The Taskkill utility ends one or more tasks or processes. Processes can be ended by process ID or image name.** - [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 

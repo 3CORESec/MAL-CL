@@ -7,6 +7,7 @@
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
   - [Versions History](#versions-history)
+  - [File Metadata](#file-metadata)
   - [Common CommandLine](#common-commandline)
   - [Threat Actor Ops (TAOps)](#threat-actor-ops-taops)
   - [Common Process Trees](#common-process-trees)
@@ -31,6 +32,10 @@
 > **Regini is a windows utility that modifies the registry from the command line or a script, and applies changes that were preset in one or more text files** - [MSDN](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/regini)
 
 ## Versions History
+
+- TBD
+
+## File Metadata
 
 - TBD
 
