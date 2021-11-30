@@ -35,7 +35,9 @@
 
 ## Versions History
 
-- TBD
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Unknown    | 9592d40783fe5714b7a61957050de3cc8eb18a8f | [LINK](https://www.virustotal.com/gui/file/4e2b90d81bb2f3dd2b9c0daa1bde4352ab31193f1e0b6130e5e97fb351b38a59)                                                                                                             |
 
 ## File Metadata
 

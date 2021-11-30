@@ -43,7 +43,17 @@
 
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (2.0):
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright © 2018-2021 www.sordum.org All Rights Reserved.     |
+| Product       | /     |
+| Description   | ExcTool     |
+| Original Name | ExcTool.exe     |
+| Internal Name | /     |
+| Comments      | ExcTool v1.3     |
+
 
 ## Common CommandLine
 
@@ -132,4 +142,4 @@ dinjector.exe /D “C:\test.exe”
 
 ## LOLBAS / GTFOBins References
 
-- N/A
+- None

@@ -35,6 +35,8 @@
 
 ## Versions History
 
+- History for ``advanced_ip_scanner.exe``:
+
 | Version | SHA1                                     | VT                                                                                                                   |
 |---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | 2.5.3850    | 1556232c5b6a998a4765a8f53d48a059cd617c59 | [LINK](https://www.virustotal.com/gui/file/87bfb05057f215659cc801750118900145f8a22fa93ac4c6e1bfd81aa98b0a55)                                                                                                             |
@@ -42,9 +44,23 @@
 | 2.4    | a01b7f55c5edc6576d1349a0a23b781552c74244 | [LINK](https://www.virustotal.com/gui/file/4179e299c24a130f3c567ddbbfe1835064a3497e8c2a1971aaba597794e8c14d)                                                                                                             |
 | 2.3    | 0e840ae8efa952429c15c00776d63539c44fcef2 | [LINK](https://www.virustotal.com/gui/file/9ff3191ef41253460a8161c520948bf1eb332a239b30f8330a2b4d7023ad9384)                                                                                                             |
 
+- History for ``advanced_ip_scanner_console.exe``:
+  - TBD
+
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (advanced_ip_scanner.exe - 2.5.3850).
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright © 2002-2019 Famatech Corp. and its licensors. All rights reserved     |
+| Product       | Advanced IP Scanner     |
+| Description   | Advanced IP Scanner Setup     |
+| Original Name | /     |
+| Internal Name | /     |
+
+- This metadata information is based on the latest version available as of this writing (advanced_ip_scanner_console.exe - 2.5.3850).
+  - TBD
 
 ## Common CommandLine
 

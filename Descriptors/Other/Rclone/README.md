@@ -173,4 +173,4 @@ C:\Users\[Username]\AppData\Roaming\rclone\rclone.conf
 
 ## LOLBAS / GTFOBins References
 
-- N/A
+- None

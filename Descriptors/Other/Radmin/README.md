@@ -35,11 +35,43 @@
 
 ## Versions History
 
-- TBD
+- Radmin Server
+
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 3.5.2   | a8ab0b90adf02bfc23b5e95303cbba34e284c69c | [LINK](https://www.virustotal.com/gui/file/943b1ed865fcab8264d0e1d722d64e3c993bed5e8351136998003ec9d7020988)                                                                                                             |
+
+- Radmin Viewer
+
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 3.5.2    | 796d2062ab831f6c815bd6ed5e2d588625ef3670 | [LINK](https://www.virustotal.com/gui/file/dae9d41041fd1743e9f585281ddac239d35922b773a373acd130e7687491d97b)                                                                                                             |
 
 ## File Metadata
 
-- TBD
+- Radmin Server
+  - This metadata information is based on the latest version available as of this writing (3.5.2):
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright © 1999-2017 Famatech Corp. and its licensors. All rights reserved.     |
+| Product       | Radmin Server     |
+| Description   | Radmin Server     |
+| Original Name | RServer3.exe     |
+| Internal Name | RServer3     |
+| Comments | Radmin - Remote Control Server     |
+
+- Radmin Viewer
+  - This metadata information is based on the latest version available as of this writing (3.5.2):
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright © 1999-2017 Famatech Corp. and its licensors. All rights reserved.     |
+| Product       | Radmin Viewer     |
+| Description   | Radmin Viewer     |
+| Original Name | Radmin.exe     |
+| Internal Name | Radmin     |
+| Comments | Radmin Viewer     |
 
 ## Common CommandLine
 

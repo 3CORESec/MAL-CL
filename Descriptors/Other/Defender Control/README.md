@@ -48,7 +48,16 @@
 
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (2.0):
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright © 2015-2021 www.sordum.org All Rights Reserved.     |
+| Product       | /     |
+| Description   | dfControl v2.0     |
+| Original Name | dfControl.exe     |
+| Internal Name | /     |
+| Comments      | dfControl v2.0     |
 
 ## Common CommandLine
 
@@ -114,4 +123,4 @@ DefenderControl.exe /D
 
 ## LOLBAS / GTFOBins References
 
-- N/A
+- None

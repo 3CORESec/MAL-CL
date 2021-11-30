@@ -33,11 +33,21 @@
 
 ## Versions History
 
-- TBD
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 1.57   | c2eaca8799d335954ef3d9a1867ec1b629ca4f1a | [LINK](https://www.virustotal.com/gui/file/f157090fd3ccd4220298c06ce8734361b724d80459592b10ac632acc624f455e)                                                                                                             |
 
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (1.57).
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright (C) 2001-2022 www.joeware.net     |
+| Product       | AdFind     |
+| Description   | AdFind.exe     |
+| Original Name | AdFind.exe     |
+| Internal Name | /     |
 
 ## Common CommandLine
 

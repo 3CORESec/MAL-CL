@@ -37,11 +37,21 @@
 
 ## Versions History
 
-- TBD
+| Version | SHA1                                     | VT                                                                                                                   |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 14.3.5413.3000    | cd16723f9c218c543c0c44cab8163714342f167d | [LINK](https://www.virustotal.com/gui/file/73125e7984b82703e114ad0c63cd8f6be1c9ef79c68698d79b8a35dfd796303f)                                                                                                             |
 
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (14.3.5413.3000):
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright (c) 2021 Broadcom. All Rights Reserved.     |
+| Product       | Symantec Install Component     |
+| Description   | CleanWipe     |
+| Original Name | CleanWipe.exe     |
+| Internal Name | CleanWipe     |
 
 ## Common CommandLine
 

@@ -44,7 +44,15 @@
 
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (2.50).
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright © 2012 - 2021 Nir Sofer     |
+| Product       | BrowsingHistoryView     |
+| Description   | Web Browser History Viewer     |
+| Original Name | BrowsingHistoryView.exe     |
+| Internal Name | /     |
 
 ## Common CommandLine
 

@@ -48,7 +48,15 @@
 
 ## File Metadata
 
-- TBD
+- This metadata information is based on the latest version available as of this writing (1.29):
+
+| Attribute     | Value |
+|---------------|-------|
+| Copyright     | Copyright (c) 2012-2021 Power Admin LLC.     |
+| Product       | PAExec Application     |
+| Description   | PAExec Application     |
+| Original Name | PAExec.exe     |
+| Internal Name | PAExec     |
 
 ## Common CommandLine
 
