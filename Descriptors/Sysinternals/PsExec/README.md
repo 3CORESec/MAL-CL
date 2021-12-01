@@ -47,6 +47,8 @@
 ```batch
 psexec.exe -i -s [Executable]
 
+psexec.exe [RemoteHost] -accepteula -c [StringOfCommands]
+
 psexec.exe @[ListOfIPsFile] -d cmd /c [StringOfCommands]
 
 psexec.exe -accepteula @[ListOfIPsFile] -u [User] -p [Password] cmd /c [StringOfCommands]
@@ -130,7 +132,15 @@ C:\Windows\PSEXESVC.exe
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [Copy and Execute File with PsExec](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1021.002/T1021.002.md#atomic-test-3---copy-and-execute-file-with-psexec)
+  - [Use PsExec to execute a command on a remote host](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1569.002/T1569.002.md#atomic-test-2---use-psexec-to-execute-a-command-on-a-remote-host)
+  - [Remote Process Injection in LSASS via mimikatz](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1055/T1055.md#atomic-test-2---remote-process-injection-in-lsass-via-mimikatz)
+
+- **Elastic - Red Team Automation**
+  - [PsExec Lateral Movement](https://github.com/elastic/detection-rules/blob/main/rta/lateral_command_psexec.py)
+- **NextronSystems - APTSimulator**
+  - [PSEXEC](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/execution/psexec.bat)
 
 ## Detection Rules
 

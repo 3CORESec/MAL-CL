@@ -179,7 +179,20 @@ C:\Windows\SysWOW64\reg.exe
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [Query Registry](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1012/T1012.md#atomic-test-1---query-registry)
+  - [Enumeration for Credentials in Registry](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1552.002/T1552.002.md#atomic-test-1---enumeration-for-credentials-in-registry)
+  - [Enumeration for PuTTY Credentials in Registry](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1552.002/T1552.002.md#atomic-test-2---enumeration-for-putty-credentials-in-registry)
+  - [Modify Registry of Current User Profile - cmd](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1112/T1112.md#atomic-test-1---modify-registry-of-current-user-profile---cmd)
+  - [Modify Registry of Local Machine - cmd](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1112/T1112.md#atomic-test-2---modify-registry-of-local-machine---cmd)
+  - [Modify registry to store logon credentials](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1112/T1112.md#atomic-test-3---modify-registry-to-store-logon-credentials)
+
+- **NextronSystems - APTSimulator**
+  - [AV Excluder](https://github.com/NextronSystems/APTSimulator/blob/master/toolset/avexcluder.bat)
+  - [CACTUSTORCH](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/defense-evasion/js-dropper.bat)
+  - [Backdoor Run Key](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/persistence/run-key.bat)
+  - [UserInitMprLogonScript Persistence](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/persistence/userinit-mpr-logonscript.bat)
+  - [SETHC BACKDOOR](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/persistence/sticky-key-backdoor.bat)
 
 ## Detection Rules
 

@@ -118,7 +118,11 @@ C:\Windows\System32\bcdedit.exe
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [Windows - Disable Windows Recovery Console Repair](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1490/T1490.md#atomic-test-4---windows---disable-windows-recovery-console-repair)
+
+- **Elastic - Red Team Automation**
+  - [Boot Config Deletion With bcdedit](https://github.com/elastic/detection-rules/blob/main/rta/delete_bootconf.py)
 
 ## Detection Rules
 

@@ -119,7 +119,11 @@ C:\Windows\SysWOW64\systeminfo.exe
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [System Information Discovery](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1082/T1082.md#atomic-test-1---system-information-discovery)
+
+- **NextronSystems - APTSimulator**
+  - [RECON ACTIVITY](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/discovery/recon-cmd-activity.bat)
 
 ## Detection Rules
 

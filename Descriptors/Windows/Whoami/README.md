@@ -128,7 +128,12 @@ C:\Windows\SysWOW64\whoami.exe
 
 ## Detection Validation
 
-- TBD
+- **NextronSystems - APTSimulator**
+  - [RECON ACTIVITY](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/discovery/recon-cmd-activity.bat)
+
+- **Uber - Metta**
+  - [On-target Recon Simulation](https://github.com/uber-common/metta/blob/master/MITRE/Adversarial_Simulation/Initial_Investigation.yml)
+  - [System Owner-User Discovery](https://github.com/uber-common/metta/blob/master/MITRE/Discovery/discovery_win_system_owner.yml)
 
 ## Detection Rules
 

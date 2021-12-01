@@ -143,7 +143,19 @@ C:\Windows\SysWOW64\certutil.exe
 
 ## Detection Validation
 
-- TBD
+- **Red Canary - Atomic Red Team**
+  - [Deobfuscate/Decode Files Or Information](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1140/T1140.md#atomic-test-1---deobfuscatedecode-files-or-information)
+  - [Certutil Rename and Decode](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1140/T1140.md#atomic-test-2---certutil-rename-and-decode)
+  - [certutil download (urlcache)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1105/T1105.md#atomic-test-7---certutil-download-urlcache)
+  - [certutil download (verifyctl)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1105/T1105.md#atomic-test-8---certutil-download-verifyctl)
+  - [Install root CA on Windows with certutil](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1553.004/T1553.004.md#atomic-test-5---install-root-ca-on-windows-with-certutil)
+
+- **Elastic - Red Team Automation**
+  - [Certutil Encode / Decode](https://github.com/elastic/detection-rules/blob/main/rta/certutil_file_obfuscation.py)
+  - [Downloading Files With Certutil](https://github.com/elastic/detection-rules/blob/main/rta/certutil_webrequest.py)
+
+- **NextronSystems - APTSimulator**
+  - [CACTUSTORCH](https://github.com/NextronSystems/APTSimulator/blob/master/test-sets/defense-evasion/js-dropper.bat)
 
 ## Detection Rules
 
