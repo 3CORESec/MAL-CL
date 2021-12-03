@@ -62,14 +62,12 @@ wbadmin delete catalog
 wbadmin delete catalog -quiet
 wbadmin delete catalog -q
 
-rem Deletes backup for Windows Server
+rem Deletes system state backup
 wbadmin delete systemstatebackup
+wbadmin delete systemstatebackup -keepversions:0
 
 rem Deletes the oldest backup
-wbadmin DELETE SYSTEMSTATEBACKUP -deleteOldest
-
-rem deletes all the system state backups
-wbadmin delete systemstatebackup -keepversions:0
+wbadmin delete systemstatebackup -deleteOldest
 ```
 
 ## Threat Actor Ops (TAOps)

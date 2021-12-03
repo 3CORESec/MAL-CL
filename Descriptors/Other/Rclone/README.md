@@ -29,8 +29,6 @@
 
 ## Description
 
-<p align="center"><img src="/Images/Screenshots/DefenderControl.png"></p>
-
 > **Rclone is a command line program to manage files on cloud storage, has powerful cloud equivalents to the unix commands rsync, cp, mv, mount, ls, ncdu, tree, rm, and cat** — [Rclone](https://rclone.org/)
 
 ## Versions History
