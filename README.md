@@ -4,6 +4,10 @@
 
 MAL-CL (Malicious Command-Line) aims to collect and document real world and most common "malicious" command-line executions of different tools and utilities while providing actionable detections and resources for the blue team.
 
+# Author(s)
+
+- [Nasreddine Bencherchali (@nas_bench)](https://twitter.com/nas_bench)
+
 # Motivation
 
 The idea for this project stemmed from our analyses of threat intel reports where we were able to identify that, most of the time, threat actor activities were leveraging LOLBINs and "free" tools to perform their actions.
