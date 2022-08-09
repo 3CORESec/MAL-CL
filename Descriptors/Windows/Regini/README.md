@@ -1,8 +1,8 @@
-# Regedit
+# Regini
 
 ## Table of Contents
 
-- [Regedit](#regedit)
+- [Regini](#regini)
   - [Table of Contents](#table-of-contents)
   - [Acknowledgement(s)](#acknowledgements)
   - [Description](#description)
